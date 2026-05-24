@@ -1,0 +1,33 @@
+May-
+june-
+july-
+
+2026 May-june-july---90 days roadmap IMP
+
+1st day-29 april 2026
+
+
+Day 2 Task - 4th May Task 1 - Install Visual Studio Code / Antigravity : Done Task 2 - Install the Node JS (verify) : Done Task 3 - Create the github.com/signup : Done
+
+
+
+
+Mohammed Azharuddin
+9h
+Name: Mohammed Azharuddin
+Linkedin : https://www.linkedin.com/in/mohammad-azharuddin-6642b315a/
+What you do: Senior Software Testing Engineer
+Why you are here? : To upgrade myself in automation career by Learning Playwright with AI tools.
+
+Task 1 - Install Visual Studio Code - Done
+Task 2 - Intall the Node JS (verify) - Done
+Task 3 - Create the github.com/signup - Done
+Task 4 - OpenCode install in the Visual Studio Code - Done
+Task 5 - Optional - Buy OpenCode Go Subs. - Done
+
+
+OpenCode--sk-vFyt1bKq2xrdOAFqNY77l0uFDFzjZ5ufsTrFaI1sTwRxZQIv4hDoiTgLJkg5LZc0
+
+off sugeestion in VS-editor.suggest:showwords--use setting-copilot * false
+
+GIT change folder---->cd /d D:\Playwright learning\Playwright-practice--VIMP---navigate to folder & do the changes 
