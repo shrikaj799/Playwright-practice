@@ -1,3 +1,4 @@
+// tried with my own  logic it's working but not as per standard
 const num=[2,0,0,2]
 let s=num.length;
 
@@ -21,7 +22,7 @@ else
     console.log("Num is not palindrome")
 }
 
-//logic is fine but here not good as per utilization
+// 2 logic is fine but here not good as per utilization
 
 function isPalindromeNumber(num) {
     // Step 1: Convert the number to a string (e.g., 121 -> "121")
@@ -43,7 +44,7 @@ console.log(isPalindromeNumber(121));  // Output: Num is palindrome
 console.log(isPalindromeNumber(123));  // Output: Num is not palindrom
 
 
-
+// 3 tried by my same as above 
 
 function isPalindromeNumber(num){
 const originalstr=num.toString();
