@@ -48,7 +48,7 @@ git remote set-url origin https://github.com/PramodDutta/LearnPlaywrightBatch2x.
 
 1) git fetch origin 
 
-2)git checkout origin/main -- chapter_18_Async_Await
+2)git checkout origin/main -- chapter_19_Playwright_Basics
   
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -58,3 +58,14 @@ Promt-Please create cheat sheet for functions which are available for strings wi
 name.trim();          // ❌ Doesn't change 'name'
 name = name.trim();   //  Correct! 'name' is now "sam"
 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+npx playwright codegen https://app.thetestingacademy.com/playwright/ttacart/
+
+cd "D:\Playwright learning\Playwright-practice\Practice_PW\Playwrightbasics"  ------VIMP ----navigate to folder 
+npx playwright test cart.spec.ts --headed
+npx playwright test login.spec.ts --headed
+
+ npx playwright show-report
