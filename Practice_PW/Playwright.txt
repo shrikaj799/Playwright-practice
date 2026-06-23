@@ -10,6 +10,11 @@ july-
 Day 2 Task - 4th May Task 1 - Install Visual Studio Code / Antigravity : Done Task 2 - Install the Node JS (verify) : Done Task 3 - Create the github.com/signup : Done
 
 
+notes-https://app.eraser.io/workspace/aGf8WeO8HWibzTxOSvQn
+SDET clun-https://www.sdetclub.com/c/playwright-2x
+
+recordings--https://courses.thetestingacademy.com/courses/playwright-automation-mastery-2x/contents/6a34cf7fd061c
+
 
 
 Mohammed Azharuddin
@@ -48,7 +53,7 @@ git remote set-url origin https://github.com/PramodDutta/LearnPlaywrightBatch2x.
 
 1) git fetch origin 
 
-2)git checkout origin/main -- chapter_19_Playwright_Basics
+2)git checkout origin/main -- chaptet_20_OOPs_Basics
   
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
